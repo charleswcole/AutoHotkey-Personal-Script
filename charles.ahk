@@ -3,7 +3,7 @@ SoundSet, 40
 return
 
 #'::
-SoundSet, 100
+SoundSet, 85
 return
 
 #.::
